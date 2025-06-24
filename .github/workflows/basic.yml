@@ -1,7 +1,7 @@
 name: Simple CI for HTML Site
 
 on:
-  pus:
+  push:
     branches: [main]
 
 jobs:
